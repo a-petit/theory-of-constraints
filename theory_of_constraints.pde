@@ -1,7 +1,12 @@
 import fisica.*;
 
-Toc toc;
+// Ressources
+// http://www.ricardmarxer.com/fisica/
+// http://www.ricardmarxer.com/fisica/reference/index.html
+// https://processing.org/reference
+// https://sighack.com/post/make-animated-gifs-in-processing
 
+Toc toc;
 
 //Simulation s = new Simulation("1-basique", 100, 50, 100, 40, 4, 5);
 //Simulation s = new Simulation("2-amelioration-avant", 150, 50, 100, 40, 4, 5);
